@@ -51,3 +51,18 @@ Discovered the importance of the main function as the entry point of a Kotlin pr
 Defined functions using the fun keyword, specifying inputs and the function body.
 Printed text to the output using the println() function.
 Keep practicing and exploring! In the next codelab, you'll delve into using variables in Kotlin to create more dynamic programs.
+
+## Create and use variables in Kotlin
+
+1. Create and use variables in Kotlin:
+
+```kotlin
+fun main() {
+    // Define variables
+    val numberOfUnreadMessages: Int = 2
+    val userName: String = "John"
+
+    // Using variables with string templates
+    println("$userName has $numberOfUnreadMessages unread messages.")
+}
+```

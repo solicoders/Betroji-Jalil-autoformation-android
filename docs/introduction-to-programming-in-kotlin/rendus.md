@@ -66,3 +66,10 @@ fun main() {
     println("$userName has $numberOfUnreadMessages unread messages.")
 }
 ```
+2. Type inference
+
+Type inference in Kotlin refers to the compiler's ability to automatically determine the type of a variable or expression without the developer needing to explicitly specify it in the code.
+
+This means that when you initialize a variable with a value, the Kotlin compiler can infer the type of that variable based on the provided value. For example, if you initialize a variable with an integer, the compiler understands that this variable is of type Int. Similarly, if you initialize a variable with a string, the compiler infers that this variable is of type String.
+
+Type inference allows for writing more concise and readable code because you don't need to explicitly specify the type of every variable you declare. However, it's still possible to explicitly specify the type of a variable if needed, especially in cases where the type inferred by the compiler is not clear or when you want to enhance code readability for other developers.

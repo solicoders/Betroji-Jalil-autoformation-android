@@ -11,6 +11,6 @@ order: 1
 
 <!-- note -->
 
-Apprenez les bases de la programmation et créez votre première application Android.
+Learn the basics of programming and create your first Android application.
 
 <!-- new slide -->

@@ -4,10 +4,10 @@ chapitre: table de matière
 order: 0
 ---
 
-# PRINCIPES DE BASE D'ANDROID 
+# ANDROID BASIC PRINCIPLES
 
-![Android Srudio et kotlin](./images/téléchargement.jpg){:width="500px" }
-*Android Srudio et kotlin*
+![Android Srudio et kotlin](./images/kotlingarde.png){:width="500px" }
+*Android Srudio and kotlin*
 
 <!-- new slide -->
 
